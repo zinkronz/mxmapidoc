@@ -16,5 +16,6 @@
 * [1.8 pick up](/mxm-api/pick-up.md)
   * [1.8.1 Pick Up List](mxm-api/pick-up/pick-up-list.md)
   * [1.8.2 Pick Up Detail](mxm-api/pick-up/pick-up-detail.md)
-  * [Pick Up Counts](mxm-api/pick-up/pick-up-counts.md)
+  * [1.8.3 Pick Up Counts](mxm-api/pick-up/pick-up-counts.md)
+  * [1.8.4 Pick Up Update](mxm-api/pick-up/pick-up-update.md)
 
