@@ -1,4 +1,4 @@
-# PICK UP COUNT
+# PICK UP COUNT API
 
 * ### URL = [https://mxmapi.unixus.com.my/api/pickups/count/{mode}](https://mxmapi.unixus.com.my/api/pickups/count/{mode})
 * ### Method = POST
@@ -22,8 +22,8 @@
 ### ![](/assets/pickupcount.JPG)
 
 ---
-######Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.       
 
+###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
 
 
 
