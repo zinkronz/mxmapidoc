@@ -5,7 +5,6 @@
 #### {mode}  is string that need to fill with parameter
 
 * ### Method = POST
-
 * ### PARAMETER
 
 | NO | PARAMETER | DATA TYPE | MANDATORY | LENGTH | DESCRIPTION |
@@ -21,9 +20,7 @@
 | 2. | COMPLETED | Shows only completed pickup |
 | 3. | FAILED | Shows only failed pickup |
 
-
-
 * ### EXAMPLE
 
-
+![](/assets/pickuplist.JPG)
 

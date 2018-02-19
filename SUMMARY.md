@@ -15,4 +15,5 @@
 * [Counts](/mxm-api/counts-api.md)
 * [pick up](/mxm-api/pick-up.md)
   * [Pick Up List](mxm-api/pick-up/pick-up-list.md)
+  * [Pick Up Detail](mxm-api/pick-up/pick-up-detail.md)
 
