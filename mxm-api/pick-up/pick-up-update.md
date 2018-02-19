@@ -38,21 +38,17 @@ Credential use for file naming as signature, save as file
 
 #### 
 
-* ####   FILE MANAGEMENT LIST
+* #### FILE MANAGEMENT LIST
 
 ![](/assets/fileinfor.JPG)
-
-
 
 * #### INPUT PARAMETER FOR UPDATE COMPLETED
 
 ![](/assets/pickupdaco.JPG)
 
-
-
 * ### PARAMETER \(Failed\)
 
-#####    MODE = FAILED
+##### MODE = FAILED
 
 | NO | PARAMETER | DATA TYPE | MANDATORY | LENGTH | DESCRIPTION |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -67,9 +63,25 @@ Credential use for file naming as signature, save as file
 | 9. | IMAGE SHOT | Text | No |  | Image file |
 | 10. | ATTEMPT NO | String | No | 255 | Number of Attempt |
 
+### File Credentials =
 
+Credential use for file naming as Image shot, save as file
 
+* #### USER CREDENTIAL
 
+#### ![](/assets/usrcred.JPG)
 
+#### 
+
+* #### FILE MANAGEMENT LIST
+
+![](/assets/fileinfor.JPG)
+
+* #### INPUT PARAMETER FOR FAILED UPDATE
+
+#### ![](/assets/pickupdafa.JPG)
+
+---
+###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.       
 
 
