@@ -21,8 +21,8 @@
     * [1.8.4.1 Pick Up Update Completed](mxm-api/pick-up/pick-up-update/pick-up-update-completed.md)
     * [1.8.4.2 Pick Up Update Failed](mxm-api/pick-up/pick-up-update/pick-up-updae-failed.md)
 * [1.9 Delivery](mxm-api/delivery.md)
-  * Delivery List
-  * Delivery Detail
-  * Delivery Count
-  * Delivery  Update
+  * [Delivery List](mxm-api/delivery/delivery-list.md)
+  * [Delivery Detail](mxm-api/delivery/delivery-detail.md)
+  * [Delivery Count](mxm-api/delivery/delivery-count.md)
+  * [Delivery  Update](mxm-api/delivery/delivery-update.md)
 
