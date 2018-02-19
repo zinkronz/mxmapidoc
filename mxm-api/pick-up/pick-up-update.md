@@ -14,10 +14,6 @@ MODE
 | 1. | COMPLETED | Update to completed pickup |
 | 2. | FAILED | Update to failed pickup |
 
-
-
-
-
 ---
 
 ###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
