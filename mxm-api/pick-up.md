@@ -9,6 +9,4 @@ In this API will include a few API needed for Pick Up
 3. Pick Up Job Count
 4. Pick Up Job Update
 
-<toggle>
-</toggle>
 
