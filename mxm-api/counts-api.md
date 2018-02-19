@@ -24,3 +24,7 @@
 
 
 
+### EXAMPLE :
+
+![](/assets/count.JPG)
+

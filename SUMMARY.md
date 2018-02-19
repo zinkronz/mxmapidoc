@@ -11,6 +11,7 @@
   * [CHECK BARCODE ](mxm-api/check-barcode-api.md)
   * [DEFINE JOBS ](mxm-api/define-jobs-api.md)
   * [COUNTS ](mxm-api/counts-api.md)
+  * [PICK UP](mxm-api/pick-up.md)
 
 ## Methods
 

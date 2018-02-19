@@ -1,5 +1,7 @@
 # CHECK BARCODE API
 
+
+
 ### URL = [https://mxmapi.unixus.com.my/api/checkbarcode](https://mxmapi.unixus.com.my/api/checkbarcode)
 
 ### Method = POST
