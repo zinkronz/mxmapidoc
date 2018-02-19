@@ -3,7 +3,7 @@
 ## Overview
 
 * [Introduction](README.md)
-* [1. MXM API](mxm-api.md)
+* [MXM API](mxm-api.md)
   * [Login](mxm-api/login-api.md)
   * [User Info](mxm-api/user-info-api.md)
   * [Dispose Code ](mxm-api/dispose-code-api.md)
