@@ -11,7 +11,8 @@
 * [Dispose Code](/mxm-api/dispose-code-api.md)
 * [News](/mxm-api/news-api.md)
 * [Check Barcode](/mxm-api/check-barcode-api.md)
-* [mxm-api/define-jobs-api.md](/mxm-api/define-jobs-api.md)
+* [Define Job](/mxm-api/define-jobs-api.md)
+* [mxm-api/counts-api.md](/mxm-api/counts-api.md)
 
 
 
