@@ -6,7 +6,7 @@
 
 ## 1. MXM API
 
-* [1.1][Login](/mxm-api/login-api.md)
+* [1.1 Login](/mxm-api/login-api.md)
 * 1.2 [User Info](/mxm-api/user-info-api.md)
 * 1.3 [Dispose Code](/mxm-api/dispose-code-api.md)
 * 1.4 [News](/mxm-api/news-api.md)
