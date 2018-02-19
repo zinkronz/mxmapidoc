@@ -13,7 +13,7 @@
 * [1.5 Check Barcode](/mxm-api/check-barcode-api.md)
 * [1.6 Define Job](/mxm-api/define-jobs-api.md)
 * [1.7 Counts](/mxm-api/counts-api.md)
-* <expand>[1.8 pick up](/mxm-api/pick-up.md)</expand>
+* <toggle>[1.8 pick up](/mxm-api/pick-up.md)</toggle>
   * [1.8.1 Pick Up List](mxm-api/pick-up/pick-up-list.md)
   * [1.8.2 Pick Up Detail](mxm-api/pick-up/pick-up-detail.md)
 
