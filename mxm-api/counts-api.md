@@ -5,7 +5,6 @@
 #### {mode}  is string that need to fill with parameter
 
 * ### Method = POST
-
 * ### PARAMETER
 
 | NO | PARAMETER | DATA TYPE | MANDATORY | LENGTH | DESCRIPTION |
@@ -27,10 +26,8 @@
 ![](/assets/count.JPG)
 
 ---
+
 ###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
-
-
-
 
 
 
