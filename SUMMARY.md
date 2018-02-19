@@ -4,7 +4,7 @@
 
 * [Introduction](//README.md)
 
-1. ## MXM API
+## MXM API
 
 * [Login](/mxm-api/login-api.md)
 
