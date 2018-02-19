@@ -2,13 +2,13 @@
 
 This API shows us about the dispose code for pick up and delivery jobs and shows the dispose status
 
-### URL = [https://mxmapi.unixus.com.my/api/disposecode/{mode}](https://mxmapi.unixus.com.my/api/disposecode/{mode})
+* ### URL = [https://mxmapi.unixus.com.my/api/disposecode/{mode}](https://mxmapi.unixus.com.my/api/disposecode/{mode})
 
 #### {mode}  is string that need to fill with parameter
 
-### Method = POST
+* ### Method = POST
 
-### PARAMETER
+* ### PARAMETER
 
 | NO | PARAMETER | MANDATORY | LENGTH | DESCRIPTION |
 | :--- | :--- | :--- | :--- | :--- |
