@@ -4,7 +4,11 @@
 
 #### {mode}  is string that need to fill with parameter
 
+
+
 ### Method = POST
+
+
 
 ### PARAMETER
 
@@ -22,6 +26,4 @@
 ### EXAMPLE :
 
 ![](/assets/dicod.JPG)
-
-
 

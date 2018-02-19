@@ -17,5 +17,3 @@
 
 ![](/assets/login.JPG)
 
-
-
