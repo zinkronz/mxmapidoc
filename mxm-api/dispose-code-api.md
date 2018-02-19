@@ -24,3 +24,11 @@ This API shows us about the dispose code for pick up and delivery jobs and shows
 
 ![](/assets/dicod.JPG)
 
+
+
+---
+
+###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
+
+
+
