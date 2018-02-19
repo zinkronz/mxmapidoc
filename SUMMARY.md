@@ -6,8 +6,9 @@
 
 ## MXM API
 
-1. [Login](/mxm-api/login-api.md)
-2. [User Info](/mxm-api/user-info-api.md)
+\*\[chapter 1\]\([Login](/mxm-api/login-api.md)\)
+
+\*\[chapter 2\]\([User Info](/mxm-api/user-info-api.md)\)
 
 
 
