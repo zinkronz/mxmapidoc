@@ -6,8 +6,8 @@
 
 ## MXM API
 
-1. [Login API](/mxm-api/login-api.md)
-2. [mxm-api/user-info-api.md](/mxm-api/user-info-api.md)
+1. [Login](/mxm-api/login-api.md)
+2. [User Info](/mxm-api/user-info-api.md)
 
 
 
