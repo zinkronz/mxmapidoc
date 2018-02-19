@@ -1,9 +1,7 @@
 # CHECK BARCODE API
 
 * ### URL = [https://mxmapi.unixus.com.my/api/checkbarcode](https://mxmapi.unixus.com.my/api/checkbarcode)
-
 * ### Method = POST
-
 * ### PARAMETER
 
 | NO | PARAMETER | DATA TYPE | MANDATORY | LENGTH | DESCRIPTION |
@@ -14,4 +12,10 @@
 * ### EXAMPLE :
 
 ![](/assets/checkbc.JPG)
+
+---
+###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
+
+
+
 
