@@ -25,6 +25,6 @@
   * [1.9.2 Delivery Detail](mxm-api/delivery/delivery-detail.md)
   * [1.9.3 Delivery Count](mxm-api/delivery/delivery-count.md)
   * [1.9.4 Delivery  Update](mxm-api/delivery/delivery-update.md)
-    * 1.9.4.1 Delivery Update Completed
+    * [1.9.4.1 Delivery Update Completed](mxm-api/delivery/delivery-update/1941-delivery-update-completed.md)
     * [1.9.4.2 Delivery Update Failed](mxm-api/delivery/delivery-update/delivery-update-failed.md)
 
