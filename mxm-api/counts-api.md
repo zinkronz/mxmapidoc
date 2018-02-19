@@ -4,11 +4,7 @@
 
 #### {mode}  is string that need to fill with parameter
 
-
-
 ### Method = POST
-
-
 
 ### PARAMETER
 
