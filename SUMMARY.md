@@ -2,11 +2,11 @@
 
 ## MXM API MANUAL
 
-* [Introduction](/README.md)
+* [Introduction](//README.md)
 
 # MXM API
 
-1. login-api.md
+1. [mxm-api/login-api.md](/mxm-api/login-api.md)
 
 
 
