@@ -8,5 +8,5 @@ MXM is a mobile based IXM Application for drivers do the jobs.
 
 ---
 
-<font size="2"> Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved. </font>
+Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
 
