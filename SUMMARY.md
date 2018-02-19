@@ -12,7 +12,5 @@
 * [News](/mxm-api/news-api.md)
 * [Check Barcode](/mxm-api/check-barcode-api.md)
 * [Define Job](/mxm-api/define-jobs-api.md)
-* [mxm-api/counts-api.md](/mxm-api/counts-api.md)
-
-
+* [Counts](/mxm-api/counts-api.md)
 
