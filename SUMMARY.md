@@ -4,11 +4,11 @@
 
 * [Introduction](//README.md)
 
-## MXM API
+1. ## MXM API
 
-* \[chapter 1\]\([Login](/mxm-api/login-api.md)\)
+* [Login](/mxm-api/login-api.md)
 
-* \[chapter 2\]\([User Info](/mxm-api/user-info-api.md)\)
+* [User Info](/mxm-api/user-info-api.md)
 
 
 
