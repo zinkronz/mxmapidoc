@@ -17,3 +17,7 @@ This API is for credential about user info, and show the information of the user
 
 ![](/assets/login.JPG)
 
+---
+
+###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
+
