@@ -1,12 +1,6 @@
 # Summary
 
-```
-* [Chapter 1](chapter1.md)
-* [Chapter 2](chapter2.md)
-* [Chapter 3](chapter3.md)
-```
-
-## Overview
+## MXM API MANUAL
 
 * [Introduction](README.md)
 * [MXM API](mxm-api.md)
@@ -18,6 +12,4 @@
   * [DEFINE JOBS ](mxm-api/define-jobs-api.md)
   * [COUNTS ](mxm-api/counts-api.md)
   * [PICK UP](mxm-api/pick-up.md)
-
-
 
