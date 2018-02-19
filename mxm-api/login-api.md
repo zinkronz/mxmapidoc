@@ -2,11 +2,13 @@
 
 ### URL = [https://mxmapi.unixus.com.my/api/login](https://mxmapi.unixus.com.my/api/login)
 
+### 
+
 ### Method = POST
 
 ### 
 
-### PARAMETERS 
+### PARAMETERS
 
 | NO | PARAMETER | DATA TYPE | LENGTH | MANDATORY | DESCRIPTION |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -17,25 +19,21 @@
 
 
 
-EXAMPLE :
+### EXAMPLE :
 
+---
 
+var \_AuthCredentials = new auth\_ixm.AuthCredentials\(\);
 
- var \_AuthCredentials = new auth\_ixm.AuthCredentials\(\);
+\_AuthCredentials.UserName = "loginname";
 
- \_AuthCredentials.UserName = "loginname";
+\_AuthCredentials.Password = "password";
 
- \_AuthCredentials.Password = "password";
+\_AuthCredentials.ApplicationCode = "DriverApps";
 
- \_AuthCredentials.ApplicationCode = "DriverApps";
+\_AuthCredentials.CultureType = auth\_ixm.CultureType.English;
 
- \_AuthCredentials.CultureType = auth\_ixm.CultureType.English;
-
-
-
-
-
-
+---
 
 
 
