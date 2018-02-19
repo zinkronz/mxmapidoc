@@ -10,4 +10,7 @@
 * [User Info](/mxm-api/user-info-api.md)
 * [dispose code](/mxm-api/dispose-code-api.md)
 * [news](/mxm-api/news-api.md)
+* [mxm-api/check-barcode-api.md](/mxm-api/check-barcode-api.md)
+
+
 
