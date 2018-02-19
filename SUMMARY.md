@@ -3,6 +3,9 @@
 ## MXM API MANUAL
 
 * [Introduction](README.md)
+
+## MXM API
+
 * [MXM API](mxm-api.md)
   * [Login](mxm-api/login-api.md)
   * [User Info](mxm-api/user-info-api.md)
