@@ -4,16 +4,16 @@
 
 * [Introduction](//README.md)
 
-## MXM API
+## 1. MXM API
 
-* [Login](/mxm-api/login-api.md)
-* [User Info](/mxm-api/user-info-api.md)
-* [Dispose Code](/mxm-api/dispose-code-api.md)
-* [News](/mxm-api/news-api.md)
-* [Check Barcode](/mxm-api/check-barcode-api.md)
-* [Define Job](/mxm-api/define-jobs-api.md)
-* [Counts](/mxm-api/counts-api.md)
-* [pick up](/mxm-api/pick-up.md)
-  * [Pick Up List](mxm-api/pick-up/pick-up-list.md)
-  * [Pick Up Detail](mxm-api/pick-up/pick-up-detail.md)
+* 1.1 [Login](/mxm-api/login-api.md)
+* 1.2 [User Info](/mxm-api/user-info-api.md)
+* 1.3 [Dispose Code](/mxm-api/dispose-code-api.md)
+* 1.4 [News](/mxm-api/news-api.md)
+* 1.5 [Check Barcode](/mxm-api/check-barcode-api.md)
+* 1.6 [Define Job](/mxm-api/define-jobs-api.md)
+* 1.7 [Counts](/mxm-api/counts-api.md)
+* 1.8 [pick up](/mxm-api/pick-up.md)
+  * 1.8.1 [Pick Up List](mxm-api/pick-up/pick-up-list.md)
+  * 1.8.2 [Pick Up Detail](mxm-api/pick-up/pick-up-detail.md)
 
