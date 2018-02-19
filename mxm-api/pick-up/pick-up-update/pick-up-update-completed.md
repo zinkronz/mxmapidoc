@@ -1,9 +1,7 @@
 # PICK UP UPDATE COMPLETED API
 
-* ### URL =[https://mxmapi.unixus.com.my/api/pickups/update/{mode}](https://mxmapi.unixus.com.my/api/pickups/update/{mode})
-
+* ### URL = [https://mxmapi.unixus.com.my/api/pickups/update/completed](https://mxmapi.unixus.com.my/api/pickups/update/completed)
 * ### Method = POST
-
 * ### PARAMETER
 
 | NO | PARAMETER | DATA TYPE | MANDATORY | LENGTH | DESCRIPTION |
@@ -21,23 +19,15 @@
 | 11. | ID NO | String | No | 255 | Identity number |
 | 12. | CONSIGNEE | String | No | 255 | Consignee Name |
 
-
-
 ##### \*for the signature will use file management info to handle because the signature is formatted as file
-
-
 
 * ### File Credentials =
 
 Credential use for file naming as signature, save as file
 
-
-
 #### USER CREDENTIAL
 
 ![](/assets/usrcred.JPG)
-
-
 
 #### FILE MANAGEMENT LIST
 
@@ -48,7 +38,8 @@ Credential use for file naming as signature, save as file
 ![](/assets/pickupdaco.JPG)
 
 ---
-###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.       
+
+###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
 
 
 
