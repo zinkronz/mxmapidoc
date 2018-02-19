@@ -33,7 +33,7 @@ Credential use for file naming as Image shot, save as file
 
 #### INPUT DATA PARAMETER
 
-![](/assets/pickupdaco.JPG)
+![](/assets/pickupdafa.JPG)
 
 ---
 
