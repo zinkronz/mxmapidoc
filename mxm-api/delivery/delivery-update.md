@@ -11,10 +11,12 @@ MODE
 
 | NO | MODE | DESCRIPTION |
 | :--- | :--- | :--- |
-| 1. | COMPLETED | Update to completed delivery  |
-| 2. | FAILED | Update to failed delivery  |
+| 1. | COMPLETED | Update to completed delivery |
+| 2. | FAILED | Update to failed delivery |
 
 ---
+
+###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
 
 
 
