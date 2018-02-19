@@ -33,7 +33,7 @@ Credential use for file naming as SIGNATURE , save as file
 
 #### INPUT DATA PARAMETER
 
-![](/assets/decom.JPG)
+![](/assets/duco.JPG)
 
 ---
 
