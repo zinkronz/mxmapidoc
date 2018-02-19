@@ -6,5 +6,5 @@
 
 ## MXM API
 
-* [mxm-api/login-api.md](/mxm-api/login-api.md)
+* [Login API](/mxm-api/login-api.md)
 
