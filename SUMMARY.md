@@ -18,4 +18,6 @@
   * [1.8.2 Pick Up Detail](mxm-api/pick-up/pick-up-detail.md)
   * [1.8.3 Pick Up Counts](mxm-api/pick-up/pick-up-counts.md)
   * [1.8.4 Pick Up Update](mxm-api/pick-up/pick-up-update.md)
+    * [Pick Up Update Completed](mxm-api/pick-up/pick-up-update/pick-up-update-completed.md)
+    * [Pick Up Updae Failed](mxm-api/pick-up/pick-up-update/pick-up-updae-failed.md)
 
