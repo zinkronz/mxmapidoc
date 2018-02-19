@@ -1,6 +1,6 @@
-# PICK UP API 
+# PICK UP API
 
-This API is only for pickup jobs.
+This API is handlers for pickup jobs.
 
 In this API will include a few API needed for Pick Up
 
@@ -9,10 +9,9 @@ In this API will include a few API needed for Pick Up
 3. Pick Up Job Count
 4. Pick Up Job Update
 
-
 ---
-###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
 
+###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
 
 
 
