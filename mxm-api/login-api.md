@@ -2,11 +2,7 @@
 
 ### URL = [https://mxmapi.unixus.com.my/api/login](https://mxmapi.unixus.com.my/api/login)
 
-### 
-
 ### Method = POST
-
-### 
 
 ### PARAMETERS
 
@@ -17,23 +13,7 @@
 | 3 | CultureType | Enum |  | Yes | Login Culture |
 | 4 | ApplicationCode | String | 255 | Yes | “DriverApps” |
 
-
-
 ### EXAMPLE :
 
----
-
-var \_AuthCredentials = new auth\_ixm.AuthCredentials\(\);
-
-\_AuthCredentials.UserName = "loginname";
-
-\_AuthCredentials.Password = "password";
-
-\_AuthCredentials.ApplicationCode = "DriverApps";
-
-\_AuthCredentials.CultureType = auth\_ixm.CultureType.English;
-
----
-
-
+![](/assets/userinfo.JPG)
 

@@ -2,13 +2,9 @@
 
 ### URL = [https://mxmapi.unixus.com.my/api/userinfo](https://mxmapi.unixus.com.my/api/userinfo)
 
-
-
 ### Method = POST
 
-
-
-### PARAMETERS 
+### PARAMETERS
 
 | NO | PARAMETER | DATA TYPE | LENGTH | MANDATORY | DESCRIPTION |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -17,9 +13,9 @@
 | 3 | CultureType | Enum |  | Yes | Login Culture |
 | 4 | ApplicationCode | String | 255 | Yes | “DriverApps” |
 
-
-
 ### EXAMPLE :
+
+![](/assets/login.JPG)
 
 
 
