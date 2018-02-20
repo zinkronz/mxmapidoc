@@ -3,7 +3,7 @@
 Delivery Update will be devided by two sections
 
 1. #####[Delivery Update Completed](delivery-update/delivery-update-completed.md)
-2. #####[Delivery Update Failed](delivery-update/delivery-update-failed.md)
+2. #####[Delivery Update Failed](1941-delivery-update-completed.md)
 
 Table below shows the mode of delivery update
 
