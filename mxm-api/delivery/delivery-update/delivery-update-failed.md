@@ -19,21 +19,9 @@
 
 ##### \* for image shot handled by file management list and file credential because formatted as file
 
-### File Credentials
+* ### EXAMPLE
 
-Credential use for file naming as image shot, save as file
-
-#### USER CREDENTIAL
-
-![](/assets/usrcred.JPG)
-
-#### FILE MANAGEMENT LIST
-
-![](/assets/fileinfor.JPG)
-
-#### INPUT DATA PARAMETER
-
-![](/assets/delfail.JPG)
+### ![](/assets/delifailjson.JPG)
 
 
 
