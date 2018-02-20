@@ -19,21 +19,9 @@
 
 ##### \* for signature handled by file management list and file credential because formatted as file
 
-### File Credentials
+* ### EXAMPLE
 
-Credential use for file naming as SIGNATURE , save as file
-
-#### USER CREDENTIAL
-
-![](/assets/usrcred.JPG)
-
-#### FILE MANAGEMENT LIST
-
-![](/assets/fileinfor.JPG)
-
-#### INPUT DATA PARAMETER
-
-![](/assets/duco.JPG)
+### ![](/assets/delicomjson.JPG)
 
 ---
 

@@ -19,7 +19,7 @@
 
 * ### EXAMPLE
 
-### ![](/assets/delicou.JPG)
+### ![](/assets/delicoujson.JPG)
 
 ---
 
