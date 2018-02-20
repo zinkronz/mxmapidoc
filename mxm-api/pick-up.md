@@ -5,9 +5,9 @@ This API is handlers for pickup jobs.
 In this API will include a few API needed for Pick Up
 
 1. [Pick Up Job List](pick-up/pick-up-list.md)
-2. Pick Up Job Detail
-3. Pick Up Job Count
-4. Pick Up Job Update
+2. [Pick Up Job Detail](pick-up/pick-up-detail.md)
+3. [Pick Up Job Count](pick-up/pick-up-counts.md)
+4. [Pick Up Job Update](pick-up/pick-up-update.md)
 
 ---
 
