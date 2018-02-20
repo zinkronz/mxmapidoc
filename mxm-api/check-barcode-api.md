@@ -11,11 +11,11 @@
 
 * ### EXAMPLE :
 
-![](/assets/checkbc.JPG)
+### ![](/assets/checkbcjson.JPG)
 
 ---
-###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
 
+###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
 
 
 

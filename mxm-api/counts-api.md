@@ -23,7 +23,7 @@
 
 * ### EXAMPLE :
 
-![](/assets/count.JPG)
+![](/assets/countjson.JPG)
 
 ---
 

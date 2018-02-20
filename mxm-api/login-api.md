@@ -15,9 +15,7 @@ This API is only for credential of Login, to authorized driver for using the app
 
 * ### EXAMPLE :
 
-![](/assets/userinfo.JPG)
-
-
+![](/assets/loginjson.JPG)
 
 ---
 

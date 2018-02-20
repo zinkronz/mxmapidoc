@@ -15,7 +15,7 @@ This API is for credential about user info, and show the information of the user
 
 * ### EXAMPLE :
 
-![](/assets/login.JPG)
+![](/assets/userinfojson.JPG)
 
 ---
 

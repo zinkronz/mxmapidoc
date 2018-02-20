@@ -1,10 +1,7 @@
 # START JOB API
 
 * ### URL = [https://mxmapi.unixus.com.my/api/stasrtjob](https://mxmapi.unixus.com.my/api/stasrtjob)
-
 * ### METHOD = POST
-
-
 
 * ### PARAMETER
 
@@ -17,8 +14,6 @@
 | 5 | LONGITUDE | Decimal | 10, 7 | Yes | Longitude loc |
 | 6. | USERNAME | String | 50 | Yes | Username at job |
 
-
-
 * ### EXAMPLE
 
 ![](/assets/Start Job.JPG)
@@ -26,14 +21,6 @@
 ---
 
 ###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
-
-
-
-
-
-
-
-
 
 
 

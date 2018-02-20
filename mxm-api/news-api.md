@@ -12,7 +12,7 @@ This API shows the news for the job on the day, and show the status for the job,
 
 * ### EXAMPLE :
 
-![](/assets/news.JPG)
+### ![](/assets/dicodjson.JPG)
 
 ---
 

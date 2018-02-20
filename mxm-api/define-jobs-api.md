@@ -5,7 +5,6 @@
 #### \*change the {HAWB NO} with the hawb number
 
 * ### Method = POST
-
 * ### PARAMETER
 
 | NO | PARAMETER | DATA TYPE | MANDATORY | LENGTH | DESCRIPTION |
@@ -14,11 +13,11 @@
 
 * ### EXAMPLE :
 
-![](/assets/defjob.JPG)
+![](/assets/defjobjson.JPG)
 
 ---
-###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
 
+###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
 
 
 

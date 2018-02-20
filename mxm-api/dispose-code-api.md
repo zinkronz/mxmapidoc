@@ -22,9 +22,7 @@ This API shows us about the dispose code for pick up and delivery jobs and shows
 
 * ### EXAMPLE :
 
-![](/assets/dicod.JPG)
-
-
+![](/assets/dicodjson.JPG)
 
 ---
 
