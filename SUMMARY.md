@@ -27,4 +27,5 @@
   * [1.9.4 Delivery  Update](mxm-api/delivery/delivery-update.md)
     * [1.9.4.1 Delivery Update Completed](mxm-api/delivery/delivery-update/1941-delivery-update-completed.md)
     * [1.9.4.2 Delivery Update Failed](mxm-api/delivery/delivery-update/delivery-update-failed.md)
+* 1.10 Config Setup
 

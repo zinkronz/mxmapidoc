@@ -1,6 +1,6 @@
 # Introduction
 
-MXM is a mobile based IXM Application for drivers do the jobs.
+MXM is Mobile based App for driver doing delivery and pickup jobs, so with this application driver can maintain the progress and report for delivery and pickup of items.
 
 ---
 
