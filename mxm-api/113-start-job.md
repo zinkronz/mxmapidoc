@@ -2,7 +2,6 @@
 
 * ### URL = [https://mxmapi.unixus.com.my/api/stasrtjob](https://mxmapi.unixus.com.my/api/stasrtjob)
 * ### METHOD = POST
-
 * ### PARAMETER
 
 | No | PARAMETERS | DATA TYPE | LENGTH | MANDATORY | DESCRIPTION |
@@ -16,7 +15,7 @@
 
 * ### EXAMPLE
 
-![](/assets/Start Job.JPG)
+![](/assets/Start Job json.JPG)
 
 ---
 
