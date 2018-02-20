@@ -21,21 +21,11 @@
 
 ##### \*for the signature will use file management info to handle because the signature is formatted as file
 
-* ### File Credentials =
 
-Credential use for file naming as signature, save as file
 
-#### USER CREDENTIAL
+* ### EXAMPLE
 
-![](/assets/usrcred.JPG)
-
-#### FILE MANAGEMENT LIST
-
-![](/assets/fileinfor.JPG)
-
-#### INPUT DATA PARAMETER
-
-![](/assets/pickupdaco.JPG)
+![](/assets/pickupdacojson.JPG)
 
 ---
 

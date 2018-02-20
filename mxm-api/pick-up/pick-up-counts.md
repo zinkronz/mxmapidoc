@@ -19,7 +19,7 @@
 
 * ### EXAMPLE
 
-### ![](/assets/pickupcount.JPG)
+### ![](/assets/countjson.JPG)
 
 ---
 

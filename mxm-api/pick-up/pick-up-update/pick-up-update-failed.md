@@ -19,21 +19,9 @@
 
 ##### \*for the Image shot will use file management info to handle because the Image shot is formatted as file
 
-* ### File Credentials =
+* ### EXAMPLE
 
-Credential use for file naming as Image shot, save as file
-
-#### USER CREDENTIAL
-
-![](/assets/usrcred.JPG)
-
-#### FILE MANAGEMENT LIST
-
-![](/assets/fileinfor.JPG)
-
-#### INPUT DATA PARAMETER
-
-![](/assets/pickupdafa.JPG)
+![](/assets/pickupdafajson.JPG)
 
 ---
 
