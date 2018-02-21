@@ -1,4 +1,4 @@
-# 2.8.4.1A Pick Up Update Completed API \(RESTful\)
+# 2.8.4.1B Pick Up Update Completed API \(RESTful\)
 
 #### Sample source code for Pick Up Update Completed API
 
