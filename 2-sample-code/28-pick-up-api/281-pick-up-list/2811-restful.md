@@ -4,7 +4,7 @@
 
 ![](/assets/countjson.JPG)
 
-##### \*This API shows the jobs by the mode \(completed, pending/all, and failed\) and token number for validate user.
+##### \*This API shows the pick up list jobs by the mode \(completed, pending/all, and failed\) and token number for validate user.
 
 ---
 
