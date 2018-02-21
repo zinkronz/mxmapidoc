@@ -6,6 +6,7 @@
 
 ##### \*This API set the mode to (pick up & delivery) for showing dispose code list, and token number for validate user.
 
+##### \*Mode planted in the url link
 ---
 
 ###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
