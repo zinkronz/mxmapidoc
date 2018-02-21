@@ -1,6 +1,6 @@
 # 2.8.3.2 Pick Up Count API \(RESTful\)
 
-#### Sample source code for Pick Up List API
+#### Sample source code for Pick Up Count API
 
 ![](/assets/countjson.JPG)
 
