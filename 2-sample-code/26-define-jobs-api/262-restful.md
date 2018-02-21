@@ -1,6 +1,6 @@
 # 2.6.2 Define Jobs API \(C\#\)
 
-#### Sample source code for Check Barcode API
+#### Sample source code for Define Jobs API
 
 ![](/assets/defjobjson.JPG)
 

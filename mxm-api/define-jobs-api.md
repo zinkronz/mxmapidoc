@@ -13,7 +13,7 @@
 
 * ### EXAMPLE :
 
-![](/assets/defjobjson.JPG)
+![](/assets/dicodjson.JPG)
 
 ---
 
