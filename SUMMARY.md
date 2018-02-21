@@ -55,7 +55,7 @@
 * [2.7 Counts API](2-sample-code/27-counts-api.md)
   * [2.7.1 C\#](2-sample-code/27-counts-api/271-c.md)
   * [2.7.2 RESTful](2-sample-code/27-counts-api/272-restful.md)
-* [2.8 Pick Up API](2-sample-code/28-pick-up-api.md)
+* [2.8 Pick Up API](2-sample-code/28-pick-up-api)
   * [2.8.1 Pick Up List API](2-sample-code/28-pick-up-api/281-pick-up-list.md)
      * [2.8.1.1 C#](2-sample-code/28-pick-up-api/281-pick-up-list/2811-c.md)
      * [2.8.1.2 RESTful](2-sample-code/28-pick-up-api/281-pick-up-list/2811-restful.md)
