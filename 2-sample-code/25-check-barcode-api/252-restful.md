@@ -1,10 +1,12 @@
-# 2.5.1 Check Barcode API \(C\#\)
+# 2.5.2 Check Barcode API \(RESTful\)
 
 #### Sample source code for Check Barcode API
 
-![](/assets/checkbc.JPG)
+![](/assets/checkbcjson.JPG)
 
 ##### \*This API shows the detail for jobs by checking hawb number and token number for validate user.
+
+
 
 ---
 
