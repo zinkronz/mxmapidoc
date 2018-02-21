@@ -47,6 +47,9 @@
   * [2.4.1 C\#](2-sample-code/24-news-api/241-c.md)
   * [2.4.2 RESTful](2-sample-code/24-news-api/242-restful.md)
 * [2.5 Check Barcode API](2-sample-code/25-check-barcode-api.md)
+  * [2.5.1 C\#](2-sample-code/25-check-barcode-api/251-c.md)
+  * [2.5.2 RESTful](2-sample-code/25-check-barcode-api/252-restful.md)
+
 * [2.6 Define Jobs API](2-sample-code/26-define-jobs-api.md)
 * [2.7 Counts API](2-sample-code/27-counts-api.md)
 
