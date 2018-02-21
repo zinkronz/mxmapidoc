@@ -50,8 +50,8 @@
   * [2.5.1 C\#](2-sample-code/25-check-barcode-api/251-c.md)
   * [2.5.2 RESTful](2-sample-code/25-check-barcode-api/252-restful.md)
 * [2.6 Define Jobs API](2-sample-code/26-define-jobs-api.md)
-  * [2.66.1 C\#](2-sample-code/26-define-jobs-api/261-c.md)
+  * [2.6.1 C\#](2-sample-code/26-define-jobs-api/261-c.md)
   * [2.6.2 RESTful](2-sample-code/26-define-jobs-api/262-restful.md)
-
 * [2.7 Counts API](2-sample-code/27-counts-api.md)
+
 
