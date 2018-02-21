@@ -53,5 +53,6 @@
   * [2.6.1 C\#](2-sample-code/26-define-jobs-api/261-c.md)
   * [2.6.2 RESTful](2-sample-code/26-define-jobs-api/262-restful.md)
 * [2.7 Counts API](2-sample-code/27-counts-api.md)
-
+  * [2.7.1 C\#](2-sample-code/27-counts-api/271-c.md)
+  * [2.7.2 RESTful](2-sample-code/27-counts-api/272-restful.md)
 
