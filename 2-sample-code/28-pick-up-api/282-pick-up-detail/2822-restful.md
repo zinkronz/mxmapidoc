@@ -1,6 +1,6 @@
 # 2.8.2.2 Pick Up Detail API \(RESTful\)
 
-#### Sample source code for Pick Up List API
+#### Sample source code for Pick Up Detail API
 
 ![](/assets/dicodjson.JPG)
 
