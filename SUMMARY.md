@@ -41,8 +41,8 @@
   * [2.2.1 C\#](2-sample-code/22-user-info-api/221-c.md)
   * [2.2.2 RESTful](2-sample-code/22-user-info-api/222-restful.md)
 * [2.3 Dispose Code API](2-sample-code/23-dispose-code-api.md)
-  * [2.3.1 C\#](2-sample-code/231-c.md)
-  * [2.3.2 RESTful](2-sample-code/232-restful.md)
+  * [2.3.1 C\#](2-sample-code/23-dispose-code-api/231-c.md)
+  * [2.3.2 RESTful](2-sample-code/23-dispose-code-api/232-restful.md)
 * 2.4 News API
 * 2.5 Check Barcode API
 * 2.6 Define Jobs API
