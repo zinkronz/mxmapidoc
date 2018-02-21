@@ -6,6 +6,8 @@
 
 ##### \*This API shows the pick up list jobs by the mode \(completed, pending/all, and failed\) and token number for validate user.
 
+##### \*Mode planted in the url link
+
 ---
 
 ###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
