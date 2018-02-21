@@ -7,7 +7,6 @@
 ##### \*This API shows the detail of pick up jobs by the pick up number and token number for validate user.
 
 
-
 ##### \*The pick up number planted on the url link
 ---
 
