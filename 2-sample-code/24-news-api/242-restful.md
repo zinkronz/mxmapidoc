@@ -1,4 +1,4 @@
-# 2.4.1 News API \(RESTful\)
+# 2.4.2 News API \(RESTful\)
 
 #### Sample source code for News API
 
