@@ -17,6 +17,8 @@ This API is for credential about user info, and show the information of the user
 
 ![](/assets/userinfojson.JPG)
 
+#####*after getting the information, it will automatically generate token number for user to validate in the rest of API
+
 ---
 
 ###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
