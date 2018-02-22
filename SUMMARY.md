@@ -71,8 +71,7 @@
        * [ 2.8.4.1B RESTful](2-sample-code/28-pick-up-api/284-pick-up-update/2841-pick-up-update-completed/2841b-restful.md)
      * [2.8.4.2 Pick Up Update Failed](2-sample-code/28-pick-up-api/284-pick-up-update/2842-pick-up-update-failed.md)
        * [ 2.8.4.2A C#](2-sample-code/28-pick-up-api/284-pick-up-update/2842-pick-up-update-failed/2842a-c.md)
-       * [ 2.8.4.2B RESTful](2-sample-code/28-pick-up-api/284-pick-up-update/2842-pick-up-update-failed/2842b-restful.md) 
- 
+       * [ 2.8.4.2B RESTful](2-sample-code/28-pick-up-api/284-pick-up-update/2842-pick-up-update-failed/2842b-restful.md)  
   * [2.9 Delivery API](2-sample-code/29-delivery-api.md)
   * [2.9.1 Delivery List API](2-sample-code/29-delivery-api/291-delivery-list.md)
      * [2.9.1.1 C#](2-sample-code/29-pick-up-api/291-delivery-list/2911-c.md)
