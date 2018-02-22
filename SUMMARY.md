@@ -90,7 +90,11 @@
       * [ 2.9.4.2A C\#](2-sample-code/29-delivery-api/294-delivery-update/29942-delivery-update-failed/2942a-c.md)
       * [ 2.9.4.2B RESTful](2-sample-code/29-delivery-api/294-delivery-update/2942-delivery-update-failed/2942b-restful.md)
 * [2.10 Config Setup API](2-sample-code/210-config-setup-api.md)
+  * [2.10.1 C\#](2-sample-code/210-config-setup-api/2101-c.md)
+  * [2.10.2 RESTful](2-sample-code/210-config-setup-api/2102-restful.md)
 * [2.11 On Duty API](2-sample-code/211-on-duty-api.md)
+  * [2.11.1 C\#](2-sample-code/211-on-duty-api/2111-c.md)
+  * [2.11.2 RESTful](2-sample-code/211-on-duty-api/2112-restful.md)
 * [2.12 Firebase Token API](2-sample-code/212-firebase-token-api.md)
 * [2.13 Start Job API](2-sample-code/213-start-job-api.md)
 
