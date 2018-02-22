@@ -2,10 +2,10 @@
 
 #### Sample source code for Delivery Update Failed API
 
-![](/assets/pickupdafajson.JPG)
+![](/assets/delifailjson.JPG)
 
 
-##### \*This API update the pick up job into failed pick up job (with necessary fields to fill) and token number for validate user.
+##### \*This API update the delivery job into failed delivery job (with necessary fields to fill) and token number for validate user.
 
 ---
 
