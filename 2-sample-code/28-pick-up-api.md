@@ -1,6 +1,6 @@
 # Pick Up
 
-This section shows the sample code for C\# and RESTful as in  Json body Input for the data
+This section shows the sample code for pick up :
 
 1. Pick Up List
 2. Pick Up Detail
