@@ -6,6 +6,9 @@
 
 ##### \*This API shows the detail of delivery jobs by the hawb number and token number for validate user.
 
+##### \*The hawb number planted on the url link
+
+
 ---
 
 ###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
