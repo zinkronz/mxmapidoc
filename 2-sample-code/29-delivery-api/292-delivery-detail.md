@@ -1,4 +1,4 @@
-# Delivery List
+# Delivery Detail
 
 This section shows the sample code for C\# and RESTful as in  Json body Input for the data
 
