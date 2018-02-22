@@ -1,6 +1,6 @@
 # 2.8.4.2B Pick Up Update Failed API \(RESTful\)
 
-#### Sample source code for Pick Up Update Completed API
+#### Sample source code for Pick Up Update Failed API
 
 ![](/assets/pickupdafajson.JPG)
 

@@ -1,12 +1,9 @@
-# 2.8.4.2A Pick Up Update Failed API \(C\#\)
+# 2.9.4.2B Delivery Update Failed API \(RESTful\)
 
-#### Sample source code for Pick Up Update Failed API
+#### Sample source code for Delivery Update Failed API
 
-![](/assets/pickupdafa.JPG)
+![](/assets/pickupdafajson.JPG)
 
-#### For image shot need some validation for file credential
-
-![](/assets/fileinfor.JPG)
 
 ##### \*This API update the pick up job into failed pick up job (with necessary fields to fill) and token number for validate user.
 
