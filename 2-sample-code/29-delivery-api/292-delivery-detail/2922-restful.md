@@ -1,4 +1,4 @@
-# 2.9.2.1 Delivery Detail API \(RESTful\)
+# 2.9.2.2 Delivery Detail API \(RESTful\)
 
 #### Sample source code for Delivery Detail API
 
