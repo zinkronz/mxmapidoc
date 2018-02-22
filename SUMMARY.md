@@ -96,5 +96,11 @@
   * [2.11.1 C\#](2-sample-code/211-on-duty-api/2111-c.md)
   * [2.11.2 RESTful](2-sample-code/211-on-duty-api/2112-restful.md)
 * [2.12 Firebase Token API](2-sample-code/212-firebase-token-api.md)
+  * [2.12.1 C\#](2-sample-code/212-firebase-token-api/2121-c.md)
+  * [2.12.2 RESTful](2-sample-code/212-firebase-token-api/2122-restful.md)
 * [2.13 Start Job API](2-sample-code/213-start-job-api.md)
+  * [2.13.1 C\#](2-sample-code/213-start-job-api/2131-c.md)
+  * [2.13.2 RESTful](2-sample-code/213-start-job-api/2132-restful.md)
+
+
 
