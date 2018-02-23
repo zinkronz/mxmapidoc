@@ -105,6 +105,6 @@
 ## 3. Error Code
 
 * [3.1 Error Message](3-error-message/31-error-message.md)
-  * [3.1.1 Message Code Table](3-error-message/31-error-message/311-error-message-table.md)
+  * [3.1.1 Error Message Table](3-error-message/31-error-message/311-error-message-table.md)
 
 
