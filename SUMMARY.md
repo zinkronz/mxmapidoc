@@ -106,5 +106,5 @@
 
 * [3.1 Error Message](3-error-message/31-error-message.md)
   * [3.1.1 Error Message Table](3-error-message/31-error-message/311-error-message-table.md)
-
+  * [3.1.2 Error Message Code](3-error-message/31-error-message/312-error-message-code.md)
 
