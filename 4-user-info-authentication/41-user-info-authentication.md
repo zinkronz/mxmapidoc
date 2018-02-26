@@ -13,6 +13,8 @@ The table below showing the credentials that needs to pass into the API. The sys
 | 3 | CultureType | Enum |  | Yes |
 | 4 | AppCode | String | 255 | Yes |
 
+
+
 Example :
 
 ![](/assets/usercrrd.JPG)
