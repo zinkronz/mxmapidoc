@@ -2,6 +2,8 @@
 
 #### Service URL =  [http://api.unixus.com.my/Administration/UBaseServices/Security/Membership.svc](http://api.unixus.com.my/Administration/UBaseServices/Security/Membership.svc)
 
+#### 
+
 The table below showing the credentials that needs to pass into the API. The system need to authenticate the valid user before it can proceed to the next step.
 
 | No | Parameter | Data Type | Length | Mandatory |
