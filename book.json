@@ -1,5 +1,5 @@
 {
-    "plugins": [ "theme-api" , "expandable-chapters", "layout"],
+    "plugins": [ "theme-api" , "expandable-chapters", "layout", "offline"],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
