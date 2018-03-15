@@ -1,5 +1,5 @@
 {
-    "plugins": [ "theme-api" , "expandable-chapters", "layout", "offline"],
+    "plugins": [ "theme-api" , "expandable-chapters", "layout", "offline", "codeblock-filename"],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
