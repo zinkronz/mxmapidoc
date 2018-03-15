@@ -2,7 +2,21 @@
 
 #### Sample source code for Delivery Count API
 
-![](/assets/countjson.JPG)
+**URL = [https://mxmapi.unixus.com.my/api/deliveries/count/{mode}](https://mxmapi.unixus.com.my/api/deliveries/count/{mode})**
+
+
+Delivery Count
+```
+{ "request":
+  { 
+      "MobileUserId":"mobile user name",
+      "TokenKey":"Token Number"  
+   }
+}
+```
+
+
+
 
 ##### \*This API counts the delivery jobs by the mode and token number for validate user.
 
