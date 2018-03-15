@@ -2,6 +2,8 @@
 
 #### Sample source code for Pick Up Update Failed API
 
+**URL = [https://mxmapi.unixus.com.my/api/pickups/update/failed](https://mxmapi.unixus.com.my/api/pickups/update/failed)**
+
 
 Pick Up Update Failed
 ```
@@ -39,6 +41,9 @@ Pick Up Update Failed
     "PickupNo":"pick up number"
   }
 ```
+
+
+
 
 ##### \*This API update the pick up job into failed pick up job (with necessary fields to fill) and token number for validate user.
 
