@@ -2,7 +2,18 @@
 
 #### Sample source code for Pick Up Detail API
 
-![](/assets/dicodjson.JPG)
+**URL = [https://mxmapi.unixus.com.my/api/pickups/detail/{Pickup\_no}](https://mxmapi.unixus.com.my/api/pickups/detail/{Pickup_no})**
+
+
+Pick Up Detail
+```
+{ "request":
+  { 
+      "TokenKey":"Token Number"  
+   }
+}
+```
+
 
 ##### \*This API shows the detail of pick up jobs by the pick up number and token number for validate user.
 
