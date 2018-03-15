@@ -4,7 +4,7 @@
 
 #### Sample source code for Config Setup API
 
-![](/assets/confsetjson.JPG)
+**URL = https://mxmapi.unixus.com.my/api/configsetup**
 
 Config Setup 
 ```
