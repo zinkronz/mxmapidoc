@@ -4,7 +4,20 @@
 
 #### Sample source code for On Duty API
 
-![](/assets/ondutyjson.JPG)
+**URL : [https://mxmapi.unixus.com.my/api/onduty](https://mxmapi.unixus.com.my/api/onduty)**
+
+On Duty 
+```
+{ "request":
+  { 
+      "Onduty":true,
+      "Username":"user name",
+      "TokenKey":"Token Number"  
+   }
+}
+
+
+```
 
 
 
