@@ -4,7 +4,19 @@
 
 #### Sample source code for Firebase Token API
 
-![](/assets/firebasetjson.JPG)
+**URL = [https://mxmapi.unixus.com.my/api/firebasetoken](https://mxmapi.unixus.com.my/api/firebasetoken)**
+
+On Duty 
+```
+{ "request":
+  { 
+      "Username":"user name",
+      "Firebasetoken" : "fire base number",
+      "TokenKey":"Token Number"  
+   }
+}
+
+```
 
 
 
