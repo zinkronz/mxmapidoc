@@ -2,7 +2,17 @@
 
 #### Sample source code for Delivery Detail API
 
-![](/assets/deldetjson.JPG)
+**URL = [https://mxmapi.unixus.com.my/api/deliveries/detail/{Hawb\_No}](https://mxmapi.unixus.com.my/api/deliveries/detail/{Hawb_No})**
+
+```
+{
+ "request":{	
+             "TokenKey":"Token Number"
+          }
+}
+```
+
+
 
 ##### \*This API shows the detail of delivery jobs by the hawb number and token number for validate user.
 
