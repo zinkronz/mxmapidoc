@@ -2,6 +2,8 @@
 
 #### Sample source code for User Info API
 
+**URL = https://mxmapi.unixus.com.my/api/userinfo**
+
 User Info
 
 ```
