@@ -2,7 +2,7 @@
 
 #### Sample source code for Dispose Code API
 
-![](/assets/dicodjson.JPG)
+**URL = https://mxmapi.unixus.com.my/api/disposecode/{mode}**
 
 Dispose Code 
 ```
