@@ -8,7 +8,8 @@ User Info
 
 ```
 { "request":
-  { "appcode":"DRIVERAPPS",
+  { 
+    "appcode":"DRIVERAPPS",
     "CultureType": "1",
     "Password":"password",
     "username":"user name"
