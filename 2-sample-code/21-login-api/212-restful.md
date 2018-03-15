@@ -6,8 +6,17 @@
 
 #### Method = POST
 
-![](/assets/loginjson.JPG)
 
+!FILENAME login
+```
+{ "request":
+  { "appcode":"DRIVERAPPS",
+    "CultureType": "1",
+    "Password":"password",
+    "loginname":"login name"
+   }
+}
+```
 ##### \*This is the credential authentication for Login in the Application
 
 ---
