@@ -10,7 +10,7 @@ Config Setup
 ```
 { "request":
   { 
-      "Country":"MY,
+      "Country":"MY",
       "TokenKey":"Token Number"  
    }
 }
