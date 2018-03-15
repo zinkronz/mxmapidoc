@@ -10,8 +10,8 @@ Delivery Update Completed
   "request": {
     "FileCredentials": {
       "CultureType": "1",
-      "Password": "abcd1234",
-      "UserName": "han"
+      "Password": "password",
+      "UserName": "user name"
     },
     "FileManagementList": [
       {
