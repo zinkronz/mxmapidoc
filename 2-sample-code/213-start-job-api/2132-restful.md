@@ -4,7 +4,8 @@
 
 #### Sample source code for Start Job API
 
-![](/assets/Start Job json.JPG)
+**URL = [https://mxmapi.unixus.com.my/api/stasrtjob](https://mxmapi.unixus.com.my/api/stasrtjob)**
+
 
 Start Job
 
