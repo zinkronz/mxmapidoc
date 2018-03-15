@@ -4,9 +4,17 @@
 
 #### Sample source code for Define Jobs API
 
+**URL = https://mxmapi.unixus.com.my/api/definejob/{HAWB_NO}**
 
+Define Jobs
+```
+{ "request":
+  { 
+      "TokenKey":"Token Number"  
+   }
+}
+```
 
-![](/assets/dicodjson.JPG)
 
 
 
