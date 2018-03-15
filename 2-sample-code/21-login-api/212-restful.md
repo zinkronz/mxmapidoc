@@ -6,8 +6,8 @@
 
 #### Method = POST
 
+login
 
-!FILENAME login
 ```
 { "request":
   { "appcode":"DRIVERAPPS",
@@ -17,6 +17,7 @@
    }
 }
 ```
+
 ##### \*This is the credential authentication for Login in the Application
 
 ---
