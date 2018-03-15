@@ -10,7 +10,8 @@ login
 
 ```
 { "request":
-  { "appcode":"DRIVERAPPS",
+  { 
+    "appcode":"DRIVERAPPS",
     "CultureType": "1",
     "Password":"password",
     "loginname":"login name"
