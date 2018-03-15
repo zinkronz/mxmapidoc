@@ -2,7 +2,19 @@
 
 #### Sample source code for User Info API
 
-![](/assets/userinfojson.JPG)
+User Info
+
+```
+{ "request":
+  { "appcode":"DRIVERAPPS",
+    "CultureType": "1",
+    "Password":"password",
+    "username":"user name"
+   }
+}
+```
+
+
 
 ##### \*This is the credential authentication to get user informations in the Application.
 
