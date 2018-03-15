@@ -2,7 +2,19 @@
 
 #### Sample source code for Check Barcode API
 
-![](/assets/checkbcjson.JPG)
+**URL = https://mxmapi.unixus.com.my/api/checkbarcode**
+
+Check Barcode
+```
+{ "request":
+  { 
+      "TokenKey":"Token Number",
+      "hawbno":"hawb number"  
+   }
+}
+```
+
+
 
 ##### \*This API shows the detail for jobs by checking hawb number and token number for validate user.
 
