@@ -6,6 +6,17 @@
 
 ![](/assets/confsetjson.JPG)
 
+Config Setup 
+```
+{ "request":
+  { 
+      "Country":"MY,
+      "TokenKey":"Token Number"  
+   }
+}
+
+```
+
 
 
 ##### \*This API is for setup the configuration for the app by inputing country code and token as validation
