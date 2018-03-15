@@ -2,7 +2,20 @@
 
 #### Sample source code for Pick Up Count API
 
-![](/assets/countjson.JPG)
+**URL = [https://mxmapi.unixus.com.my/api/pickups/count/{mode}](https://mxmapi.unixus.com.my/api/pickups/count/{mode})**
+
+Pick Up Count
+```
+{ "request":
+  { 
+      "MobileUserId":"mobile user name",
+      "TokenKey":"Token Number"  
+   }
+}
+```
+
+
+
 
 ##### \*This API counts the pick up jobs by the mode and token number for validate user.
 
