@@ -1,11 +1,8 @@
 # 2.13.2 Start Job API \(RESTful\)
 
-
-
 #### Sample source code for Start Job API
 
-**URL = [https://mxmapi.unixus.com.my/api/stasrtjob](https://mxmapi.unixus.com.my/api/stasrtjob)**
-
+**URL = **[**https://mxmapi.unixus.com.my/api/startjob**](https://mxmapi.unixus.com.my/api/stasrtjob)
 
 Start Job
 
@@ -20,7 +17,6 @@ Start Job
       "TokenKey":"Token Number"  
    }
 }
-
 ```
 
 ##### \*This API is for setting the job status by input needed parameters and token key as user validation
@@ -28,8 +24,6 @@ Start Job
 ---
 
 ###### Copyright © 2018 Unixus Solutions Sdn. Bhd. All rights reserved.
-
-
 
 
 
